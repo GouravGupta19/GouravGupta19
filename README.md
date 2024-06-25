@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gourav
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning front-End development
+- 🌱 I’m currently learning development
 
 
 
